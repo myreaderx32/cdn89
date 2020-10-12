@@ -1,0 +1,1123 @@
+<!DOCTYPE html>
+<html lang="ru" itemscope="itemscope" itemtype="http://schema.org/WebSite">
+<head>
+	<title>Новая газета - Novayagazeta.ru</title>
+	<meta charset="UTF-8"/>
+
+	<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=no"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<link rel="manifest" href="/public/manifest.json">
+	<meta name="robots" content="index,follow"/>
+	<meta name="theme-color" content="#ffffff"/>
+
+	<meta name="yandex-verification" content="040ba7bc8e191bd5"/>
+	<meta name="yandex-verification" content="d46cae2e0b302412"/> 
+	<meta name="google-site-verification" content="UitqOZBjYU36kANwMlXBH_9MCfAbwwUTlYx6nrOYR3M"/>
+
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:site" content="@novaya_gazeta"/>
+	<meta name="twitter:creator" content="@novaya_gazeta"/>
+	<meta property="og:site_name" content="Новая газета - Novayagazeta.ru"/>
+	<meta property="og:locale" content="ru_RU"/>
+	<meta property="fb:app_id" content="193613297358329"/>
+	<meta property="vk:app_id" content="2382839"/>
+
+	<meta name="msapplication-TileColor" content="#ffffff"/>
+	<meta name="msapplication-TileImage" content="/public/fav_144.png"/>
+
+	<meta name="google-site-verification" content="1KNo8B6sUaGs5AnJFWhGtVOO6peFrdbGI7q-beBpis8"/>
+	<link rel="apple-touch-icon" sizes="57x57" href="/public/fav_57.png"/>
+	<link rel="apple-touch-icon" sizes="60x60" href="/public/fav_60.png"/>
+	<link rel="apple-touch-icon" sizes="72x72" href="/public/fav_72.png"/>
+	<link rel="apple-touch-icon" sizes="76x76" href="/public/fav_76.png"/>
+	<link rel="apple-touch-icon" sizes="114x114" href="/public/fav_114.png"/>
+	<link rel="apple-touch-icon" sizes="120x120" href="/public/fav_120.png"/>
+	<link rel="apple-touch-icon" sizes="144x144" href="/public/fav_144.png"/>
+	<link rel="apple-touch-icon" sizes="152x152" href="/public/fav_152.png"/>
+	<link rel="apple-touch-icon" sizes="180x180" href="/public/fav_180.png"/>
+	<link rel="icon" type="image/png" sizes="192x192" href="/public/fav_192.png"/>
+	<link rel="icon" type="image/png" sizes="32x32" href="/public/fav_32.png"/>
+	<link rel="icon" type="image/png" sizes="96x96" href="/public/fav_96.png"/>
+	<link rel="icon" type="image/png" sizes="16x16" href="/public/fav_16.png"/>
+	<link rel="dns-prefetch" href="//static.criteo.net">
+	<link rel="dns-prefetch" href="//bidder.criteo.com">
+	<link rel="preload" href="//static.criteo.net/js/ld/publishertag.js" as="script" crossorigin="anonymous">
+	<link rel="preconnect" href="https://ads.betweendigital.com" crossorigin>
+
+
+	<script src="https://yastatic.net/pcode/adfox/header-bidding.js"></script>
+	<script>
+		var adfoxBiddersMap = {
+			"criteo": "734831",
+			"myTarget": "801590",
+			"betweenDigital": "823019",
+    		"hybrid": "1347871",
+			"relap": "876638",
+			"getintent": "891637",
+			"rtbhouse": "853988",
+			"adriver": "991302",
+    		"buzzoola": "1296745",
+			"adfox_WiseUP": "960408",
+			"adfox_adsmart": "954146",
+			"alfasense": "1135986",
+			"adfox_tn-inpool": "960391"
+		};
+		var adUnits = window.innerWidth && window.innerWidth < 720
+				?
+				[
+					{
+						// Mobile - Inside_Article Steps
+						"code": "adfox_151705922056116117",
+						"sizes": [[300, 250]],
+						"bids": [
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1139243"
+								}
+							},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343461"
+								}
+							},
+							{
+								"bidder": "betweenDigital",
+								"params": {
+									"placementId": "2511161"
+								}
+							},
+							{
+								"bidder": "rtbhouse",
+								"params": {
+									"placementId": "hx26iyLhNUfi6Qaa7KAp"
+								}
+							},
+							{
+								"bidder": "relap",
+								"params": {
+									"placementId": "dwAAnIZHjnSOmpqa"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_300x250_mobile_1"
+								}
+							},
+							{
+								"bidder": "adriver",
+								"params": {
+									"placementId": "41:novayagazeta_300o250mob_1"
+								}
+							},
+							{
+								"bidder": "alfasense",
+								"params": {
+									"placementId": "582"
+								}
+							},
+							{
+								"bidder": "hybrid",
+								"params": {
+									"placementId": "5ec4f7e1637387fc640d209d"
+								}
+							}
+						]
+					},
+					{
+						// 300x250_Mobile_After_Article
+						"code": "adfox_151705922056116118",
+						"sizes": [[300, 250]],
+						"bids": [
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1139244"
+								}
+							},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343463"
+								}
+							},
+							{
+								"bidder": "betweenDigital",
+								"params": {
+									"placementId": "2511163"
+								}
+							},
+							{
+								"bidder": "rtbhouse",
+								"params": {
+									"placementId": "QxRmJLKabDkPnwoNmFw2"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_300x250_mobile_2"
+								}
+							},
+							{
+								"bidder": "hybrid",
+								"params": {
+									"placementId": "5ec501aa637387fc640d209e"
+								}
+							},
+							{
+								"bidder": "adriver",
+								"params": {
+									"placementId": "41:novayagazeta_300x250mob_2"
+								}
+							},
+							{
+								"bidder": "adfox_adsmart",
+								"params": {
+									"p1": "bxbpj",
+									"p2": "ul"
+								}
+							},
+							{
+								"bidder": "alfasense",
+								"params": {
+									"placementId": "583"
+								}
+							},
+							{
+								"bidder": "adfox_WiseUP",
+								"params": {
+									"p1": "caaqv",
+									"p2": "flhb"
+								}
+							}
+						]
+					},
+					{
+						// 300x250_Mobile_InRead_Read_Also
+						"code": "adfox_151705942291497217",
+						"sizes": [[300, 250]],
+						"bids": [
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1139236"
+								}
+							},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343459"
+								}
+							},
+							{
+								"bidder": "betweenDigital",
+								"params": {
+									"placementId": "2511162"
+								}
+							},
+							{
+								"bidder": "rtbhouse",
+								"params": {
+									"placementId": "ZMTqvzZ1L1oXYZ6TY4nb"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_300x250_mobile_3"
+								}
+							},
+							{
+								"bidder": "hybrid",
+								"params": {
+									"placementId": "5ec4f7e1637387fc640d209d"
+								}
+							},
+							{
+								"bidder": "adriver",
+								"params": {
+									"placementId": "41:novayagazeta_300o250mob_3"
+								}
+							},
+             						{
+                						"bidder": "buzzoola",
+                						"params": {
+                							"placementId": "1217861"
+								}
+	    						},
+							{
+								"bidder": "adfox_adsmart",
+								"params": {
+									"p1": "bxbpj",
+									"p2": "ul"
+								}
+							},
+							{
+								"bidder": "alfasense",
+								"params": {
+									"placementId": "584"
+								}
+							},
+							{
+								"bidder": "adfox_WiseUP",
+								"params": {
+									"p1": "caaqv",
+									"p2": "flhb"
+								}
+							}
+						]
+					},
+					{
+						// 300x250_Mobile_Inside_Comments
+						"code": "adfox_153294420008514001",
+						"sizes": [[300, 250]],
+						"bids": [
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1139245"
+								}
+							},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343465"
+								}
+							},
+							{
+								"bidder": "betweenDigital",
+								"params": {
+									"placementId": "2511619"
+								}
+							},
+							{
+								"bidder": "rtbhouse",
+								"params": {
+									"placementId": "u14ZXpFZrWMNJZIQfahN"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_300x250_mobile_4"
+								}
+							},
+							{
+								"bidder": "alfasense",
+								"params": {
+									"placementId": "585"
+								}
+							},
+							{
+								"bidder": "hybrid",
+								"params": {
+									"placementId": "5ec5024c1d922e993c33e064"
+								}
+							}
+						]
+					},
+					{
+						// Видео InPage
+            						"codeType": "inpage",
+            						"code": "adfox_inpage_video",
+             						"bids": [
+             						{
+                						"bidder": "buzzoola",
+                						"params": {
+                							"placementId": "1217877"
+								}
+	    						},
+	    						{
+								"bidder": "adriver",
+          							"params": {
+            								"placementId": "41:novayagazeta_inpage_mob_vast"
+								}
+	    						},
+	    						{
+								"bidder": "hybrid",
+          							"params": {
+            								"placementId": "5ec502f5637387fc640d209f"
+								}
+	    						},
+	   						{
+                						"bidder": "betweenDigital",
+                						"params": {
+                    							"placementId": "3788524"
+								}
+							}
+						]
+					}
+				]
+				:
+				[
+					{
+						// Desktop_InRead_670x240
+						"code": "adfox_151705922056116858",
+						"sizes": [[640, 400], [640, 240]],
+						"bids": [
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1365906"
+								}
+							},
+							{
+								"bidder": "rtbhouse",
+								"params": {
+									"placementId": "kHiZI90jB8wJegwveKEf"
+								}
+							},
+							{
+								"bidder": "relap",
+								"params": {
+									"placementId": "inWKAsICNRTunujo"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_640x200"
+								}
+							},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343447"
+								}
+							},
+             						{
+                						"bidder": "buzzoola",
+                						"params": {
+                							"placementId": "1217879"
+								}
+	    						},
+	    						{
+								"bidder": "hybrid",
+          							"params": {
+            								"placementId": "5ec50321637387fc640d20a0"
+								}
+	    						},
+							{
+								"bidder": "adfox_adsmart",
+								"params": {
+									"p1": "bxbpj",
+									"p2": "ul"
+								}
+							}
+						]
+					},
+					{
+						// 580*400_Inside_Comments
+						"code": "adfox_151705922056116112",
+						"sizes": [[580, 400], [640, 400]],
+						"bids": [
+							{
+								"bidder": "rtbhouse",
+								"params": {
+									"placementId": "tcM7PIlDGRdbHLwpriUr"
+								}
+							},
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1139242"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_580x400"
+								}
+							},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343449"
+								}
+							},
+							{
+								"bidder": "adriver",
+								"params": {
+									"placementId": "41:novayagazeta_336x280_2"
+								}
+							},
+	    						{
+								"bidder": "hybrid",
+          							"params": {
+            								"placementId": "5ec5036b1d922e993c33e065"
+								}
+	    						},
+							{
+								"bidder": "adfox_adsmart",
+								"params": {
+									"p1": "bxbpj",
+									"p2": "ul"
+								}
+							}
+						]
+					},
+					{
+						// 300x250_Desktop_Left
+						"code": "adfox_151705922056116115",
+						"sizes": [[300, 250]],
+						"bids": [
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1139236"
+								}
+							},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343453"
+								}
+							},
+							{
+								"bidder": "betweenDigital",
+								"params": {
+									"placementId": "2511158"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_300x250_1"
+								}
+							},
+							{
+								"bidder": "adriver",
+								"params": {
+									"placementId": "41:novayagazeta_300x250_1"
+								}
+							},
+							{
+								"bidder": "alfasense",
+								"params": {
+									"placementId": "578"
+								}
+							},
+	    						{
+								"bidder": "hybrid",
+          							"params": {
+            								"placementId": "5ec503b71d922e993c33e066"
+								}
+	    						},
+							{
+								"bidder": "rtbhouse",
+								"params": {
+									"placementId": "3CXlrQFLwr4BVzDSgKbz"
+								}
+							}
+						]
+					},
+					{
+						// 300x250_Desktop_Right
+						"code": "adfox_151705922056116116",
+						"sizes": [[300, 250]],
+						"bids": [
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1139241"
+								}
+							},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343451"
+								}
+							},
+							{
+								"bidder": "betweenDigital",
+								"params": {
+									"placementId": "2511159"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_300x250_2"
+								}
+							},
+							{
+								"bidder": "adriver",
+								"params": {
+									"placementId": "41:novayagazeta_300o250_2"
+								}
+							},
+							{
+								"bidder": "alfasense",
+								"params": {
+									"placementId": "579"
+								}
+							},
+	    						{
+								"bidder": "hybrid",
+          							"params": {
+            								"placementId": "5ec503ee1d922e993c33e067"
+								}
+	    						},
+							{
+								"bidder": "rtbhouse",
+								"params": {
+									"placementId": "HbbDEKcBKXrtG23EgblM"
+								}
+							}
+						]
+					},
+					{
+						// 300x600_Desktop_1
+						"code": "adfox_151705922056116113",
+						"sizes": [[300, 600]],
+						"bids": [
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1139237"
+								}
+							},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343437"
+								}
+							},
+							{
+								"bidder": "betweenDigital",
+								"params": {
+									"placementId": "3890396"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_300x600_1"
+								}
+							},
+							{
+								"bidder": "adriver",
+								"params": {
+									"placementId": "41:novayagazeta_300x600_1"
+								}
+							},
+							{
+								"bidder": "alfasense",
+								"params": {
+									"placementId": "576"
+								}
+							},
+	    						{
+								"bidder": "hybrid",
+          							"params": {
+            								"placementId": "5ec50419637387fc640d20a1"
+								}
+	    						},
+							{
+								"bidder": "rtbhouse",
+								"params": {
+									"placementId": "AnXsiunJ3EvzLVJHAoeG"
+								}
+							}
+						]
+					},
+					{
+						// 300x600_Sticky
+						"code": "adfox_151705922056116114",
+						"sizes": [[300, 600]],
+						"bids": [
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1139240"
+								}
+							},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343435"
+								}
+							},
+							{
+								"bidder": "betweenDigital",
+								"params": {
+									"placementId": "2511157"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_300x600_2"
+								}
+							},
+							{
+								"bidder": "rtbhouse",
+								"params": {
+									"placementId": "XLWbc6H2UuRpsXlTBle9"
+								}
+							},
+							{
+								"bidder": "adriver",
+								"params": {
+									"placementId": "41:novayagazeta_300x600_2"
+								}
+							},
+             						{
+                						"bidder": "buzzoola",
+                						"params": {
+                							"placementId": "1217880"
+								}
+	    						},
+							{
+								"bidder": "adfox_tn-inpool",
+								"params": {
+									"p1": "cckgn",
+									"p2": "gdnn"
+								}
+							},
+							{
+								"bidder": "alfasense",
+								"params": {
+									"placementId": "577"
+								}
+							},
+	    						{
+								"bidder": "hybrid",
+          							"params": {
+            								"placementId": "5ec504351d922e993c33e068"
+								}
+	    						},
+							{
+								"bidder": "adfox_WiseUP",
+								"params": {
+									"pp": "h",
+									"ps": "cjkq",
+									"p2": "gewe"
+								}
+							}
+						]
+					},
+					{
+						// 1160x250_Mainpage_Belt #1
+						"code": "adfox_737976580163075300",
+						"sizes": [[970, 250]],
+						"bids": [
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1365905"
+								}
+							},
+							{
+								"bidder": "betweenDigital",
+								"params": {
+									"placementId": "2819101"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_970x250_1"
+								}
+							},
+							{
+								"bidder": "adriver",
+								"params": {
+									"placementId": "41:novayagazeta_970x250_1"
+								}
+							},
+							{
+								"bidder": "alfasense",
+								"params": {
+									"placementId": "580"
+								}
+							},
+	    						{
+								"bidder": "hybrid",
+          							"params": {
+            								"placementId": "5ec504e31d922e993c33e069"
+								}
+	    						},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343455"
+								}
+							}
+						]
+					},
+					{
+						// 1160x250_Mainpage_Belt #2
+						"code": "adfox_392716774064953540",
+						"sizes": [[970, 250]],
+						"bids": [
+							{
+								"bidder": "betweenDigital",
+								"params": {
+									"placementId": "2819102"
+								}
+							},
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1365904"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_970x250_2"
+								}
+							},
+							{
+								"bidder": "adriver",
+								"params": {
+									"placementId": "41:novayagazeta_970x250_2"
+								}
+							},
+							{
+								"bidder": "alfasense",
+								"params": {
+									"placementId": "581"
+								}
+							},
+	    						{
+								"bidder": "hybrid",
+          							"params": {
+            								"placementId": "5ec505ed637387fc640d20a2"
+								}
+	    						},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "343457"
+								}
+							}
+						]
+					},
+					{
+						// 300x600_Sticky_Recall 1
+						"code": "adfox_508487246541637060",
+						"sizes": [[300, 600]],
+						"bids": [
+							{
+								"bidder": "criteo",
+								"params": {
+									"placementId": "1139237"
+								}
+							},
+							{
+								"bidder": "myTarget",
+								"params": {
+									"placementId": "368601"
+								}
+							},
+							{
+								"bidder": "betweenDigital",
+								"params": {
+									"placementId": "2511156"
+								}
+							},
+							{
+								"bidder": "getintent",
+								"params": {
+									"placementId": "118_newpaper_300x600_1"
+								}
+							},
+	    						{
+								"bidder": "hybrid",
+          							"params": {
+            								"placementId": "5ec50610637387fc640d20a3"
+								}
+	    						},
+							{
+								"bidder": "rtbhouse",
+								"params": {
+									"placementId": "AnXsiunJ3EvzLVJHAoeG"
+								}
+							}
+						]
+					},
+					{
+						// Видео InPage
+            						"codeType": "inpage",
+            						"code": "adfox_inpage_video",
+             						"bids": [
+             						{
+                						"bidder": "buzzoola",
+                						"params": {
+                							"placementId": "1217877"
+								}
+	    						},
+	    						{
+								"bidder": "adriver",
+          							"params": {
+            								"placementId": "41:novayagazeta_inpage_mob_vast"
+								}
+	    						},
+	    						{
+								"bidder": "hybrid",
+          							"params": {
+            								"placementId": "5ec502f5637387fc640d209f"
+								}
+	    						},
+	   						{
+                						"bidder": "betweenDigital",
+                						"params": {
+                    							"placementId": "3788526"
+								}
+							}
+						]
+					}
+				];
+		var userTimeout = 1400;
+		window.YaHeaderBiddingSettings = {
+			biddersMap: adfoxBiddersMap,
+			adUnits: adUnits,
+			timeout: userTimeout
+		};
+	</script>
+	<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+	<script async type="text/javascript" src="/frontend/public/modernizr.js"></script>
+	<script async type="text/javascript" src="/frontend/public/action_cable.js"></script>
+	<script async src="//cdn.iframe.ly/embed.js"></script>
+	<script async src="//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5"></script>
+	<script async src="https://www.google.com/recaptcha/api.js"></script>
+	<style>
+		#preloading{
+			width: 100%;
+			height: 100%;
+			background: #212226;
+			position: relative;
+		}
+		#preloading img{
+			position: absolute;
+    		top: 50%;  
+    		left: 50%; 
+    		transform: translate(-50%, -50%);
+		}
+	</style>
+<link href="/frontend/build/bundle-fbccfa1a4c9458391cff.css" rel="stylesheet"></head>
+<body>
+	
+<div id="ng-root" class="ng-root"></div>
+
+<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase.js"></script>
+<script type="text/javascript">
+	var config = {
+		messagingSenderId: "376149819123"
+	};
+	firebase.initializeApp(config);
+	const messaging = firebase.messaging();
+	// handle catch the notification on current page
+	messaging.onMessage(function (payload) {
+		let d = new Date;
+		let g = d.getHours() + ":" + d.getMinutes();
+		setTimeout(() => {
+			if (window.localStorage.getItem('lastNotificationTime') != g) {
+				window.localStorage.setItem('lastNotificationTime', g);
+				console.log('Message received', payload);
+				recieve(); //analytics on recieving notifications
+				navigator.serviceWorker.register('/public/firebase-messaging-sw.js');
+				Notification.requestPermission(function (permission) {
+					if (permission === 'granted') {
+						navigator.serviceWorker.ready.then(function (registration) {
+							payload.data.data = JSON.parse(JSON.stringify(payload.data));
+							registration.showNotification(payload.data.title, payload.data);
+						}).catch(function (error) {
+							console.log('ServiceWorker FB error: ', error)
+						});
+					}
+				});
+			}
+		}, 4000);
+	});
+	getToken();
+
+	async function getToken() {
+		const messaging = firebase.messaging();
+		await messaging.requestPermission();
+		const token = await messaging.getToken();
+		setTokenSentToServer(token);
+	}
+
+	function setTokenSentToServer(currentToken) {
+		if (window.localStorage.getItem('FirebaseMessagingToken') != currentToken) {
+			window.localStorage.setItem('FirebaseMessagingToken', currentToken);
+			window.localStorage.setItem('FirebaseUpdate', true);
+		}
+	}
+
+
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script type="text/javascript">window.twttr = window.twttr || {}</script>
+<script async src="//platform.instagram.com/en_US/embeds.js" type="text/javascript"></script>
+<script src="//vkontakte.ru/js/api/openapi.js" type="text/javascript"></script>
+<script async src="https://yastatic.net/pcode-native/loaders/loader.js"></script>
+<script type="text/javascript">VK.init({apiId: 2382839});</script>
+<script type="text/javascript">
+	(function (w, d, n, s, t) {
+		w[n] = w[n] || [];
+		t = d.getElementsByTagName("script")[0];
+		s = d.createElement("script");
+		s.type = "text/javascript";
+		s.src = "//an.yandex.ru/system/context.js";
+		s.async = true;
+		t.parentNode.insertBefore(s, t);
+	})(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+<!-- tns-counter.ru -->
+<script type="text/javascript">
+	(function (win, doc, cb) {
+		(win[cb] = win[cb] || []).push(function () {
+			try {
+				tnsCounterNovayagazeta_ru = new TNS.TnsCounter({
+					'account': 'novayagazeta_ru',
+					'tmsec': 'novayagazeta_total'
+				});
+			} catch (e) {
+			}
+		});
+
+		var tnsscript = doc.createElement('script');
+		tnsscript.type = 'text/javascript';
+		tnsscript.async = true;
+		tnsscript.src = ('https:' == doc.location.protocol ? 'https:' : 'http:') +
+				'//www.tns-counter.ru/tcounter.js';
+		var s = doc.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(tnsscript, s);
+	})(window, this.document, 'tnscounter_callback');
+</script>
+<noscript>
+	<img src="//www.tns-counter.ru/V13a****novayagazeta_ru/ru/UTF-8/tmsec=novayagazeta_total/" width="0" height="0"
+		 alt=""/>
+</noscript>
+<!--/ tns-counter.ru -->
+<script async type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<!--<script src="https://yastatic.net/pcode/adfox/loader.js"></script> -->
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script>
+	window.Criteo = window.Criteo || {};
+	window.Criteo.events = window.Criteo.events || [];
+
+	function callAdblock(zoneid, width, height) {
+		Criteo.events.push(function () {
+			Criteo.DisplayAcceptableAdIfAdblocked({
+				'zoneid': zoneid,
+				'containerid': 'crt-' + zoneid,
+				'overrideZoneFloor': false
+			});
+		});
+		window.addEventListener("message", function (e) {
+			if (e.data && e.data == zoneid) document.getElementById('crt-' + zoneid).style.display = "none";
+			else return;
+		}, false);
+		var el = document.getElementById('crt-' + zoneid);
+		el.style.width = width + "px";
+		el.style.height = height + "px";
+	}
+</script>
+<script type="text/javascript" src="/frontend/public/adriver.core.2.min.js"></script>
+<div class="legacy-browsers">
+	<h2 class="legacy-browsers__title">К сожалению, браузер, которым вы пользуйтесь, устарел и не позволяет корректно
+		отображать сайт. Пожалуйста, установите любой из современных браузеров, например:</h2>
+	<a class="legacy-browsers__link" href="https://www.google.ru/chrome/browser/desktop/">Google Chrome</a>
+	<a class="legacy-browsers__link" href="https://www.mozilla.org/ru/firefox/new/">Firefox</a>
+	<a class="legacy-browsers__link" href="http://www.opera.com/ru">Opera</a>
+</div>
+
+<!-- Facebook Pixel Code -->
+<script>
+	!function (f, b, e, v, n, t, s) {
+		if (f.fbq) return;
+		n = f.fbq = function () {
+			n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+		};
+		if (!f._fbq) f._fbq = n;
+		n.push = n;
+		n.loaded = !0;
+		n.version = '2.0';
+		n.queue = [];
+		t = b.createElement(e);
+		t.async = !0;
+		t.src = v;
+		s = b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t, s)
+	}(window, document, 'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '151980355430343');
+	fbq('track', 'PageView');
+</script>
+<noscript>
+	<img height="1" width="1"
+		 src="https://www.facebook.com/tr?id=151980355430343&ev=PageView
+                                 &noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+   ym(38558415, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/38558415" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+ 
+<!-- Google Analytics -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-24878442-1']);
+	_gaq.push(['_setDomainName', '.novayagazeta.ru']);
+	_gaq.push(['_setCustomVar', 1, 'User Type', 'Anonymous', 2]);
+	_gaq.push(['_trackPageview']);
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+				m = s.getElementsByTagName(o)
+						[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+	ga('create', 'UA-24878442-1', 'auto');
+
+	ga('send', 'pageview');
+</script>
+<script type="text/javascript">
+	(function (a, b, c, d, e, f, g, h) {
+	  g = b.createElement(c);
+	  g.src = d;
+	  g.type = "application/javascript";
+	  g.async = !0;
+	  h = b.getElementsByTagName(c)[0];
+	  h.parentNode.insertBefore(g, h);
+	  a[f] = [];
+	  a[e] = function () {
+		a[f].push(Array.prototype.slice.apply(arguments));
+	  }
+	}) (window, document, "script", "//cdn01.nativeroll.tv/js/seedr-player.min.js", "SeedrPlayer", "seedrInit");
+  </script>
+<script src="https://cdn.onthe.io/io.js/Vn5QGLgZ9j8q"></script>
+<script async src="https://widget.cloudpayments.ru/bundles/cloudpayments"></script>
+<script type="text/javascript" src="/frontend/build/bundle-fbccfa1a4c9458391cff.js"></script></body>
+</html>
+
+  
+  
+
